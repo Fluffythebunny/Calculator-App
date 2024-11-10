@@ -1,0 +1,11 @@
+{
+    "name": "Calculator",
+    "version": "1.0.0",
+    "icon": "fa-calculator",
+    "files": {
+        "html": "calculator.html",
+        "css": "calculator.css",
+        "javascript": "calculator.js"
+    },
+    "description": "Modern calculator with smooth animations and advanced operations"
+}
